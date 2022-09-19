@@ -16,8 +16,8 @@ public class MilesPerGallon {
 		+"driven: ");
 		int num1 = scan.nextInt();
 		
-		System.out.println("Enter the number of miles "
-				+"driven: ");
+		System.out.println("Enter the number of gallons of gas "
+				+"in tank: ");
 		int num2 = scan.nextInt();
 		
 		double MPG = num1 / num2;
